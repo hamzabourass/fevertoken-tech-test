@@ -1,6 +1,5 @@
 name: Pipeline ci/cd
 
-
 #Push only if the change was on the HTML file
 on:
   push:
