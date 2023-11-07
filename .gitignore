@@ -1,0 +1,17 @@
+
+# Ignore logs 
+*.log
+*.log.*
+npm-debug.log*
+
+# Ignore files created by editors
+*.swp
+.vscode/
+
+# Ignore Docker build or image files
+Dockerfile.*
+docker-compose.yml
+docker-compose.override.yml
+
+# Ignore the deployment script
+deploy.sh
