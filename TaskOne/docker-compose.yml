@@ -1,0 +1,12 @@
+version: '3.3'
+
+services:
+  web:
+    image: hamzabrs/my-html:latest
+    ports:
+      - "80:80"
+    #indicates that the image should be deployed on the worker node
+    deploy:
+      placement:
+        constraints:
+          - node.role == workers
