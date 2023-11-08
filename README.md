@@ -15,9 +15,6 @@ This repository serves as a test project for an internship application. It is di
 The completion of these tasks will serve as a comprehensive representation of my capabilities, making this repository a vital part of my internship application.
 
 # Task 1
-1. [Purpose](#purpose)
-2. [Setup](#setup)
-
 
 ## Setup
 
