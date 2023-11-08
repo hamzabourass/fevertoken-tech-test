@@ -1,2 +1,2 @@
 # fevertokens_Test
-FEVERTOKENS Internship Program Technical Test
+This Repository shows the solution I made to the FEVERTOKENS Internship Program Technical Test
