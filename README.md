@@ -49,7 +49,7 @@ To set up this project and build the necessary Docker image, follow these steps:
 ## Code in python
 ![Example Image](Images/Task2InPython.png)
 
-
+# Task 3: Logic
 
 
 
