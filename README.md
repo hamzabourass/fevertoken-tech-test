@@ -14,7 +14,7 @@ This repository serves as a test project for an internship application. It is di
 
 The completion of these tasks will serve as a comprehensive representation of my capabilities, making this repository a vital part of my internship application.
 
-# Task 1
+# Task 1 :  CI/CD with GitHub Actions
 
 ## Setup
 
@@ -40,6 +40,11 @@ To set up this project and build the necessary Docker image, follow these steps:
 ### Deployment
 
 9. Use the `deployment.sh` script to deploy the application. You can run it with the following
+
+# Task 2 :  Programming Skills
+##Code in Java 
+![Example Image](images/Task2InJava.png)
+![Example Image](images/OutputInJava.png)
 
 
 
