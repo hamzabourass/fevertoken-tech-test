@@ -1,10 +1,6 @@
 # fevertokens_Test
 Hi, Im Hamza Bouras, This Repository shows the solution I made to the FEVERTOKENS Internship Program Technical Test.
 
-# My Awesome Project
-
-This repository contains an awesome project that does something great.
-
 ## Table of Contents
 
 1. [Purpose](#purpose)
@@ -16,7 +12,16 @@ This repository contains an awesome project that does something great.
 
 ## Purpose
 
-The purpose of this repository is to showcase an awesome project and provide instructions for setting it up, building it, running it, and understanding its dependencies.
+This repository serves as a test project for an internship application. It is divided into three main tasks:
+
+1. **Task 1 - CI/CD with GitHub Actions:** The first task involves demonstrating proficiency in setting up Continuous Integration and Continuous Deployment (CI/CD) pipelines using GitHub Actions. This part of the test showcases my ability to automate the build and deployment process efficiently.
+
+2. **Task 2 - Programming Skills:** The second task assesses my programming skills. I'll be working on programming challenges or projects that demonstrate my coding abilities, code quality, and problem-solving skills.
+
+3. **Task 3 - Problem Solving:** The third task involves solving problems and providing solutions. This is an opportunity to showcase my analytical and creative problem-solving skills.
+
+The completion of these tasks will serve as a comprehensive representation of my capabilities, making this repository a vital part of my internship application.
+
 
 ## Setup
 
