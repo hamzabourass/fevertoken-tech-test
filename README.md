@@ -22,33 +22,31 @@ This repository serves as a test project for an internship application. It is di
 
 The completion of these tasks will serve as a comprehensive representation of my capabilities, making this repository a vital part of my internship application.
 
-
 ## Setup
 
-To set up this project, follow these steps:
+To set up this project and build the necessary Docker image, follow these steps:
 
 1. Clone this repository to your local machine: `git clone https://github.com/hamzabourass/fevertokens_Test.git`
 2. Navigate to the project folder: `cd fevertokens_Test`
 
-### Bash Script and Docker Compose Setup
+### Pre-Deployment Configuration and Building
 
 3. Make sure you have Docker and Docker Compose installed on your machine. If you don't have them installed, you can download Docker from [Docker's official website](https://www.docker.com/get-started) and Docker Compose from [here](https://docs.docker.com/compose/install/).
 
 4. Run the following command to generate an SSH key: `ssh-keygen -t ed25519 -P "" -f ~/.ssh/id_ed25519`
 
-5. Use the `deployment.sh` script to deploy the application. You can run it with the following command: `./deployment.sh`
+5. Ensure that the path specified in the Docker Compose YAML file within the deployment script (`docker-compose.yml`) corresponds to the actual location of the Docker Compose file in your project.
 
-6. During the execution of the script, it will prompt you for the IP address, which should look like this: `ip172-18-0-19-cl5s540gftqg00boi520@direct.labs.play-with-docker.com`. You will need to provide this IP and set it as the value for the `PWD_MANAGER` variable within the script when prompted.
+6. Build the Docker image for the project using the provided Dockerfile: `docker build -t fevertokens-test .`
 
-7. Ensure that the path specified in the Docker Compose YAML file within the script (`docker-compose.yml`) corresponds to the actual location of the Docker Compose file in your project.
+7. Go to the Play with Docker (PWD) website and create both a manager and a worker node. Obtain the IP address of the manager node that you'll use during deployment.
 
-These steps should set up your environment, generate SSH keys, and deploy the application using the provided Bash script and Docker Compose configuration.
+8. Open the `deployment.sh` script in a text editor and locate the `PWD_MANAGER` variable. Replace the placeholder value with the actual IP address of the PWD manager node that you've created.
+
+### Deployment
+
+9. Use the `deployment.sh` script to deploy the application. You can run it with the following
 
 
-## Building
 
-If the project requires a build step, you can build it using the following command:
-
-```bash
-npm run build
 
