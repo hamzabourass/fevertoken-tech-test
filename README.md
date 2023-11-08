@@ -13,11 +13,12 @@ This repository serves as a test project for an internship application. It is di
 3. **Task 3 - Problem Solving:** The third task involves solving problems and providing solutions. This is an opportunity to showcase my analytical and creative problem-solving skills.
 
 The completion of these tasks will serve as a comprehensive representation of my capabilities, making this repository a vital part of my internship application.
-# Task 1
 
+# Task 1
 1. [Purpose](#purpose)
 2. [Setup](#setup)
-3. 
+
+
 ## Setup
 
 To set up this project and build the necessary Docker image, follow these steps:
