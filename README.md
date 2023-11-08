@@ -1,5 +1,5 @@
 # fevertokens_Test
-Hi, Im Hamza Bouras, This Repository shows the solution I made to the FEVERTOKENS Internship Program Technical Test.
+Hi, Im Hamza Bouras, This Repository shows the solution I made to the FEVERTOKENS Internship Backend/DevOps Program Technical Test.
 
 
 ## Purpose
