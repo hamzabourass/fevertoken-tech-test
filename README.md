@@ -1,14 +1,10 @@
 # fevertokens_Test
 Hi, Im Hamza Bouras, This Repository shows the solution I made to the FEVERTOKENS Internship Program Technical Test.
 
-## Table of Contents
+## Table of Contents Task 1
 
 1. [Purpose](#purpose)
 2. [Setup](#setup)
-3. [Building](#building)
-4. [Running](#running)
-5. [Dependencies](#dependencies)
-6. [Task Process](#task-process)
 
 ## Purpose
 
