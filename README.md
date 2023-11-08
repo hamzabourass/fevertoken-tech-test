@@ -43,9 +43,8 @@ To set up this project and build the necessary Docker image, follow these steps:
 
 # Task 2 :  Programming Skills
 ##Code in Java 
-![Example Image](images/Task2InJava.png)
-![Example Image](images/OutputInJava.png)
-
+![Example Image](Images/Task2InJava.png)
+![Example Image](Images/OutputInJava.png)
 
 
 
