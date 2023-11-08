@@ -42,9 +42,13 @@ To set up this project and build the necessary Docker image, follow these steps:
 9. Use the `deployment.sh` script to deploy the application. You can run it with the following
 
 # Task 2 :  Programming Skills
-##Code in Java 
+## Code in Java 
 ![Example Image](Images/Task2InJava.png)
 ![Example Image](Images/OutputInJava.png)
+## Code in python
+![Example Image](Images/Task2InPython.png)
+
+
 
 
 
