@@ -20,8 +20,8 @@ The completion of these tasks will serve as a comprehensive representation of my
 
 To set up this project and build the necessary Docker image, follow these steps:
 
-1. Clone this repository to your local machine: `git clone https://github.com/hamzabourass/fevertokens_Test.git`
-2. Navigate to the project folder: `cd fevertokens_Test`
+1. Clone this repository to your local machine: `git clone https://github.com/hamzabourass/fevertoken-tech-test.git`
+2. Navigate to the project folder: `cd fevertoken-tech-test`
 
 ### Pre-Deployment Configuration and Building
 
