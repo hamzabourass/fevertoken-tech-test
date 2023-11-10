@@ -44,7 +44,7 @@ To set up this project and build the necessary Docker image, follow these steps:
 
 10. You should be able to enter the app from PWD by clicking on the port 80 that shows when you deploy with the script.
 11. By modifying the HTML and pushing the workflow in GitHub Actions starts;
-   ![Example Image](Images/WorkflowTest)
+   ![Example Image](Images/WorkflowTest.png)
 
 # Task 2 :  Programming Skills
 ## Code in Java 
