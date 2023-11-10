@@ -39,12 +39,12 @@ To set up this project and build the necessary Docker image, follow these steps:
 
 ### Deployment
 
-9. Use the `deployment.sh` script to deploy the application. You can run it with the following `./deployment.sh`
-![Example Image](Images/runing the script.png)
+9. Use the `deployment.sh` script to deploy the application. You can run it with the following `./deployment.sh`;
+ ![Example Image](Images/runing the script.png)
 
 10. You should be able to entre the app from PWD by clicking on the port 80 that show in when you deploy with the script.
 11. By modifying the html and push the workflow in github actions starts;
-![Example Image](Images/Test of the workflow.png)
+ ![Example Image](Images/Test of the workflow.png)
 
 # Task 2 :  Programming Skills
 ## Code in Java 
