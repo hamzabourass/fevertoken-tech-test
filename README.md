@@ -25,7 +25,7 @@ To set up this project and build the necessary Docker image, follow these steps:
 
 ### Pre-Deployment Configuration and Building
 
-3. Make sure you have Docker and Docker Compose installed on your machine. If you don't have them installed, you can download Docker from [Docker's official website](https://www.docker.com/get-started) and Docker Compose from [here](https://docs.docker.com/compose/install/).
+3. Make sure you have Docker,Docker Compose and ssh  installed on your machine. If you don't have them installed, you can download Docker from [Docker's official website](https://www.docker.com/get-started) and Docker Compose from [here](https://docs.docker.com/compose/install/).
 
 4. Run the following command to generate an SSH key: `ssh-keygen -t ed25519 -P "" -f ~/.ssh/id_ed25519`
 
@@ -35,7 +35,7 @@ To set up this project and build the necessary Docker image, follow these steps:
 
 7. Go to the Play with Docker (PWD) website and create both a manager and a worker node. Obtain the IP address of the manager node that you'll use during deployment.
 
-8. Open the `deployment.sh` script in a text editor and locate the `PWD_MANAGER` variable. Replace the placeholder value with the actual IP address of the PWD manager node that you've created.
+8. Open the `deployment.sh` script in a text editor and make sure to modify as specified in the comments in the file.
 
 ### Deployment
 
