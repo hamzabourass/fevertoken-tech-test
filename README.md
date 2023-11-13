@@ -56,5 +56,7 @@ To set up this project and build the necessary Docker image, follow these steps:
 
 # Task 3: Logic
 
+![Example Image](Images/Task3.png)
+
 
 
